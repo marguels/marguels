@@ -15,8 +15,10 @@ I have a passion for learning and I'm always looking for new challenges.
 Check out <a href="https://marguels.github.io" target='_blank'>my webpage</a> to know more about me and what I know!
   
 @margherita:~$ <kbd>work</kbd>
-At the heart of my professional work there is the ScopusAI, a project that aims to make scientific literature more accessible.
-It's a project that challenges and excites me, especially diving deep into NLP, LLMs, and real-time data streaming.
+At the heart of my professional work there is the ScopusAI,
+a project that aims to make scientific literature more accessible.
+It's a project that challenges and excites me,
+especially diving deep into NLP, LLMs, and real-time data streaming.
 
 @margherita:~$ █</samp></pre>
 
